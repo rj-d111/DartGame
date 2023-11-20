@@ -111,7 +111,7 @@
             // pictureBox4
             // 
             this.pictureBox4.Cursor = System.Windows.Forms.Cursors.Cross;
-            this.pictureBox4.Image = global::FormsExperiment.Properties.Resources.baloon1;
+            this.pictureBox4.Image = global::FormsExperiment.Properties.Resources.balloon1;
             this.pictureBox4.Location = new System.Drawing.Point(251, 227);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(57, 118);
