@@ -115,7 +115,6 @@ namespace FormsExperiment
         private async void freeze_ClickAsync(object sender, EventArgs e)
         {
 
-
             freeze.Image = null;
            this.BackColor = Color.Aqua;
             gameTimer.Stop();
